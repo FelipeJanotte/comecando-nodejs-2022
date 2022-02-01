@@ -1,0 +1,25 @@
+POST http://localhost:4002/products
+Content-Type: application/json
+
+{
+   "name" : "Caderno 10 matérias",
+   "price": 20
+}
+
+###
+GET http://localhost:4002/products
+
+###
+GET http://localhost:4002/products/6accb579-d770-4c93-9393-09307edf006f
+
+###
+PUT  http://localhost:4002/products/93b4e910-9d46-4432-8f92-9b312030b2ae
+Content-Type: application/json
+
+{
+   "name": "Caderno 1 matéria",
+   "price": "5"
+}
+
+###
+DELETE http://localhost:4002/products/6accb579-d770-4c93-9393-09307edf006f
