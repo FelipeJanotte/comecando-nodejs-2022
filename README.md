@@ -1,5 +1,5 @@
 <h1 name="Youtube Thumbnail" align="center">
-   <img alt="Youtube Thumbnail" src="https://i.ytimg.com/vi/zJ8p-Ckzd7Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLotT4FY72-305MksGCr8CPZUcTA"/>
+   <img alt="Youtube Thumbnail" src="https://i.imgur.com/2iQYGkR.png"/>
 </h1>
 
 ## Conceitos Estudados:
