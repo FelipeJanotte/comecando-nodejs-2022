@@ -15,3 +15,6 @@
 </h3>
 
 > Vídeo: https://www.youtube.com/watch?v=zJ8p-Ckzd7Q
+   
+> Instrutora : Daniele Leão 
+> https://www.linkedin.com/in/danieleleaoevangelista/
